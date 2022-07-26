@@ -1,0 +1,6 @@
+{
+    "python.formatting.provider": "black",
+    "java.project.sourcePaths": [
+        "easy/1614. Maximum Parentheses depth"
+    ]
+}
